@@ -16,3 +16,10 @@ console.log("New pens: ", newPens);
 
  var arraryString = pens.join("  "); 
  console.log("String from array: ", arraryString);
+
+
+
+//  Types of function
+//  Named functions 
+//  Anyoumous function 
+//  Immediately invoked function expressions
